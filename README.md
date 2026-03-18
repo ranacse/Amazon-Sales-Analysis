@@ -1,3 +1,4 @@
+
 # Amazon Sales Analysis
 ### Tools: Power BI | SQL | DAX
 
@@ -17,3 +18,6 @@ I developed this interactive report to transform raw Amazon transaction logs int
 
 ---
 *Note: To view the full report, please download the `.pbix` file and open it in Power BI Desktop.*
+
+<img width="1651" height="862" alt="full Project" src="https://github.com/user-attachments/assets/debac937-20f8-46b8-b988-bafab404b5cd" />
+
